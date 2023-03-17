@@ -6,4 +6,4 @@
 - &lt;hr&gt; => cria uma linha na horizontal
 - &lt;mark&gt; => marcador de texto
 
-*** em construção 
+*** em construção  ...
