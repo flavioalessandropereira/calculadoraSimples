@@ -1,6 +1,6 @@
 # Calculadora Simples Python
 
-> Status: Projeto Em contstrução ⚠️
+> Status: Projeto em contstrução ⚠️
 
 ## Comandos básicos: 
 - &lt;hr&gt; => cria uma linha na horizontal
